@@ -1,1 +1,0 @@
-# mrcryptohead.github.io
