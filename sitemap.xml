@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/vintage/</loc>
+    <loc>mrcryptohead.github.io/posts/mana/</loc>
+    <lastmod>2022-02-21T21:33:13+01:00</lastmod>
+  </url><url>
+    <loc>mrcryptohead.github.io/posts/</loc>
+    <lastmod>2022-02-21T21:33:13+01:00</lastmod>
+  </url><url>
+    <loc>mrcryptohead.github.io/</loc>
+    <lastmod>2022-02-21T21:33:13+01:00</lastmod>
+  </url><url>
+    <loc>mrcryptohead.github.io/vintage/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/</loc>
+    <loc>mrcryptohead.github.io/tags/</loc>
   </url>
 </urlset>
